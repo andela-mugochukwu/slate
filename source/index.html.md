@@ -1,5 +1,5 @@
 ---
-title: DocGenie API Documentation
+title: DocManger API Documentation
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - javascript
