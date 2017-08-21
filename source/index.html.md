@@ -15,7 +15,7 @@ includes:
 search: true
 ---
 
-# DocGenie API Documentation
+# DocManager API Documentation
 
 ## Introduction
 Docmanger API contains several end points that allows users to create, edit, retrieve and delete documents. It also sets access privileges so only authorized users can perform certain operations.
